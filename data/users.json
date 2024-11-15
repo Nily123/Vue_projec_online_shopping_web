@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "customer1",
+      "password": "12345",
+      "role": "customer",
+      "email": "customer1@email.com",
+      "like": [
+        {
+          "id": 1
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 10
+        }
+      ],
+      "car": [],
+      "order": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "username": "employee1",
+      "password": "67890",
+      "role": "employee",
+      "email": "employee1@email.com",
+      "like": [],
+      "car": [],
+      "order": []
+    }
+  ]
+}

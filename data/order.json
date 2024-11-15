@@ -1,0 +1,106 @@
+{
+  "orders": [
+    {
+      "orderId": 1,
+      "username": "customer1",
+      "items": [
+        {
+          "id": 1,
+          "name": "吸濕保暖素色POLO衫",
+          "color": "灰",
+          "size": "S",
+          "quantity": 2,
+          "price": 399,
+          "discount": 80
+        }
+      ],
+      "totalDiscount": 80,
+      "totalPrice": 718,
+      "deliveryMethod": "storePickup",
+      "address": "",
+      "status": "未發貨",
+      "orderDate": "2024-11-05"
+    },
+    {
+      "orderId": 2,
+      "username": "customer1",
+      "items": [
+        {
+          "id": 1,
+          "color": "灰",
+          "size": "S",
+          "number": 1,
+          "name": "吸濕保暖素色POLO衫",
+          "price": 399,
+          "category": [
+            "Men",
+            "Shirt",
+            "POLO",
+            "Fall",
+            "Winter"
+          ],
+          "image": "001/001-gr-01.jpg",
+          "quantity": 1,
+          "discount": 40,
+          "finalPrice": 359
+        },
+        {
+          "id": 3,
+          "color": "深藍",
+          "size": "L",
+          "number": 1,
+          "name": "法蘭絨休閒連帽襯衫",
+          "price": 599,
+          "category": [
+            "Men",
+            "Shirt",
+            "Hooded_shirt",
+            "Fall",
+            "Winter"
+          ],
+          "image": "003/003-db-01.jpg",
+          "quantity": 1,
+          "discount": 60,
+          "finalPrice": 539
+        }
+      ],
+      "totalDiscount": 100,
+      "totalPrice": 898,
+      "deliveryMethod": "delivery",
+      "address": "台北市中正區建國路四段123巷45號6樓之7",
+      "status": "已發貨",
+      "orderDate": "2024-11-13T05:31:21.205Z"
+    },
+    {
+      "orderId": 3,
+      "username": "customer1",
+      "items": [
+        {
+          "id": 13,
+          "color": "深灰",
+          "size": "L",
+          "number": 1,
+          "name": "吸濕保暖內刷毛圓領T恤",
+          "price": 299,
+          "category": [
+            "Men",
+            "Shirt",
+            "Sweatshirt",
+            "Fall",
+            "Winter"
+          ],
+          "image": "013/013-dg-01.jpg",
+          "quantity": 1,
+          "discount": 30,
+          "finalPrice": 269
+        }
+      ],
+      "totalDiscount": 30,
+      "totalPrice": 269,
+      "deliveryMethod": "storePickup",
+      "address": null,
+      "status": "未發貨",
+      "orderDate": "2024-11-15T00:05:38.924Z"
+    }
+  ]
+}

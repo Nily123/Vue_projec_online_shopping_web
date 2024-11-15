@@ -1,0 +1,59 @@
+{
+  "activity": [
+    {
+      "act_id": 1,
+      "act_name": "秋季不怕冷，當季商品大折扣!",
+      "category": [
+        "Fall",
+        "Winter"
+      ],
+      "pro_id": [
+        ""
+      ],
+      "act_con": "大驚喜~季節變化大?秋冬裝還沒準備好? SW現在就有活動可以滿足您的需求!從11月1日起到12月31日，全館秋冬裝打9折。買越多越划算，這個秋季還沒準備好衣服嗎?馬上就來挑選採購吧!!!",
+      "act_cau_img": "activity/act_01.png",
+      "act_con_img": [
+        "activity/act_01.png"
+      ],
+      "act_start": "2024-11-01",
+      "act_end": "2024-12-31",
+      "discount": "*0.9",
+      "discount_rule": {
+        "type": "same_category_discount",
+        "quantity_condition": 1,
+        "apply_to": "all",
+        "rate": 0.9
+      }
+    },
+    {
+      "act_id": 2,
+      "act_name": "聖誕大學季，同款項情侶帽T第二件八折",
+      "category": [
+        "Hooded_shirt"
+      ],
+      "pro_id": [],
+      "act_con": "這個聖誕節還好決定好約會衣服嗎? 來SW商城選購吧! 各種款項的帽T，不論大小顏色，第二件直接八折!! 快來挑選你們的約會戰袍吧 ~",
+      "act_cau_img": "activity/act_02.png",
+      "act_con_img": [
+        "activity/act_02.png"
+      ],
+      "act_start": "2024-12-01",
+      "act_end": "2024-12-30",
+      "discount": "",
+      "discount_rule": {
+        "type": "same_product_discount",
+        "quantity_condition": 2,
+        "apply_to": "second_item",
+        "rate": 0.8
+      }
+    }
+  ],
+  "announce": [
+    {
+      "ann_id": 1,
+      "ann_name": "test1",
+      "ann_con": "這是一個簡單的測試公告~",
+      "ann_date": "2024/11/3-23:11:11"
+    }
+  ]
+}

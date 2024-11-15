@@ -1,0 +1,1594 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "吸濕保暖素色POLO衫",
+      "price": 399,
+      "location": "印尼",
+      "material": "100%棉",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        ""
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "POLO",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "灰",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 101
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 10,
+              "stock": 40
+            },
+            {
+              "size": "XXL",
+              "sales": 5,
+              "stock": 20
+            }
+          ],
+          "image": [
+            "001/001-gr-01.jpg",
+            "001/001-gr-02.jpg",
+            "001/001-gr-03.jpg"
+          ]
+        },
+        {
+          "color": "灰藍",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            },
+            {
+              "size": "XL",
+              "sales": 15,
+              "stock": 30
+            },
+            {
+              "size": "XXL",
+              "sales": 8,
+              "stock": 15
+            }
+          ],
+          "image": [
+            "001/001-gb-01.jpg",
+            "001/001-gb-02.jpg",
+            "001/001-gb-03.jpg",
+            "001/001-gb-04.jpg",
+            "001/001-gb-05.jpg"
+          ]
+        },
+        {
+          "color": "深藍",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 55,
+              "stock": 95
+            },
+            {
+              "size": "M",
+              "sales": 35,
+              "stock": 75
+            },
+            {
+              "size": "L",
+              "sales": 22,
+              "stock": 55
+            },
+            {
+              "size": "XL",
+              "sales": 12,
+              "stock": 35
+            },
+            {
+              "size": "XXL",
+              "sales": 6,
+              "stock": 18
+            }
+          ],
+          "image": [
+            "001/001-db-01.jpg",
+            "001/001-db-02.jpg"
+          ]
+        },
+        {
+          "color": "黑",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 70,
+              "stock": 110
+            },
+            {
+              "size": "M",
+              "sales": 50,
+              "stock": 90
+            },
+            {
+              "size": "L",
+              "sales": 30,
+              "stock": 70
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 50
+            },
+            {
+              "size": "XXL",
+              "sales": 10,
+              "stock": 25
+            }
+          ],
+          "image": [
+            "001/001-black-01.jpg",
+            "001/001-black-02.jpg",
+            "001/001-black-03.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "001/001-info.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "休閒拼接連帽牛仔外套",
+      "price": 999,
+      "location": "越南",
+      "material": "大身 : 100%棉 配布 : 68%聚酯纖維、32%棉      羅紋 : 98%棉 、2%彈性纖維",
+      "wash": "※ 建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。※ 衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        "1.由於牛仔商品具有特殊的染料特性，因此會產生洗滌後逐漸褪色的獨特風格，摩擦時亦會略為掉色。",
+        "2.避免坐靠在淺色特別是潮濕的物體上，會有掉色可能。並小心與淺色衣物搭配，汗漬有可能導致未經洗水的牛仔商品褪色。",
+        "3.請單獨洗滌，洗滌後請立即晾乾。"
+      ],
+      "category": [
+        "Men",
+        "Jacket",
+        "Cowboy",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "淺藍",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 10,
+              "stock": 40
+            }
+          ],
+          "image": [
+            "002/002-lb-01.jpg",
+            "002/002-lb-02.jpg",
+            "002/002-lb-03.jpg",
+            "002/002-lb-04.jpg",
+            "002/002-lb-05.jpg",
+            "002/002-lb-06.jpg",
+            "002/002-lb-07.jpg"
+          ]
+        },
+        {
+          "color": "深藍",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            },
+            {
+              "size": "XL",
+              "sales": 15,
+              "stock": 30
+            }
+          ],
+          "image": [
+            "002/002-db-01.jpg",
+            "002/002-db-02.jpg"
+          ]
+        }
+      ],
+      "image": [
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "name": "法蘭絨休閒連帽襯衫",
+      "price": 599,
+      "location": "中國",
+      "material": "100%棉",
+      "wash": "※ 建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。※ 衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        ""
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "Hooded_shirt",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "淺咖啡",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 10,
+              "stock": 40
+            }
+          ],
+          "image": [
+            "003/003-co-01.jpg",
+            "003/003-co-02.jpg",
+            "003/003-co-03.jpg",
+            "003/003-co-04.jpg"
+          ]
+        },
+        {
+          "color": "淺藍",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            },
+            {
+              "size": "XL",
+              "sales": 15,
+              "stock": 30
+            }
+          ],
+          "image": [
+            "003/003-lb-01.jpg",
+            "003/003-lb-02.jpg"
+          ]
+        },
+        {
+          "color": "深藍",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 55,
+              "stock": 95
+            },
+            {
+              "size": "M",
+              "sales": 35,
+              "stock": 75
+            },
+            {
+              "size": "L",
+              "sales": 22,
+              "stock": 55
+            },
+            {
+              "size": "XL",
+              "sales": 12,
+              "stock": 35
+            }
+          ],
+          "image": [
+            "003/003-db-01.jpg",
+            "003/003-db-02.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "003/003-info.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "寬版拼接仿皮牛仔棒球外套",
+      "price": 999,
+      "location": "中國",
+      "material": "主布 : 100%棉, 配布 : 100%聚氨基甲酸酯, 羅紋 : 95%聚酯纖維、5%彈性纖維, 裏布 : 100%聚酯纖維",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        "1.由於染料特性，此商品會產生些許硫化味，隨著洗滌次數增加將會減少硫化味的產生，對人體並無危害，請確認是否接受再購買此商品，謝謝。",
+        "2.由於牛仔商品具有特殊的染料特性，因此會產生洗滌後逐漸褪色的獨特風格，摩擦時亦會略為掉色。",
+        "3.避免坐靠在淺色特別是潮濕的物體上，會有掉色可能。並小心與淺色衣物搭配，汗漬有可能導致未經洗水的牛仔商品褪色。",
+        "4.請單獨套入洗衣袋洗滌，洗滌後請立即晾乾。"
+      ],
+      "category": [
+        "Men",
+        "Jacket",
+        "Cowboy",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "灰藍",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "004/004-gb-01.jpg",
+            "004/004-gb-02.jpg",
+            "004/004-gb-03.jpg",
+            "004/004-gb-04.jpg",
+            "004/004-gb-05.jpg",
+            "004/004-gb-06.jpg"
+          ]
+        },
+        {
+          "color": "褐綠",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            }
+          ],
+          "image": [
+            "004/004-gr-01.jpg",
+            "004/004-gr-02.jpg",
+            "004/004-gr-03.jpg"
+          ]
+        }
+      ],
+      "image": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "name": "美式印字毛圈落肩帽T",
+      "price": 550,
+      "location": "柬埔寨",
+      "material": "68%棉 、32%聚酯纖維",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        ""
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "Hooded_shirt",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "杏色",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "005/005-wh-01.jpg",
+            "005/005-wh-02.jpg",
+            "005/005-wh-03.jpg"
+          ]
+        },
+        {
+          "color": "深藍",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "005/005-db-01.jpg",
+            "005/005-db-02.jpg",
+            "005/005-db-03.jpg",
+            "005/005-db-04.jpg",
+            "005/005-db-05.jpg"
+          ]
+        }
+      ],
+      "image": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "name": "珊瑚絨家居連帽上衣",
+      "price": 379,
+      "location": "中國",
+      "material": "100%聚酯纖維",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        "1.因布料的特性，可能有輕微脫毛的現象。",
+        "2.如絨毛黏附其它衣物，請用衣物專用的軟毛刷去除。",
+        "3.建議放入洗衣袋中洗滌。"
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "Hooded_shirt",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "黑",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "006/006-b-01.jpg",
+            "006/006-b-02.jpg",
+            "006/006-b-03.jpg",
+            "006/006-b-04.jpg",
+            "006/006-b-05.jpg"
+          ]
+        }
+      ],
+      "image": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "name": "NASA刷毛印字落肩大學T",
+      "price": 390,
+      "location": "柬埔寨",
+      "material": "74%聚酯纖維、26%棉",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        " 1.本商品因布料的特性，可能會發生脫毛的現象。",
+        "2.如絨毛黏附其它衣物，請用衣物專用的軟毛刷去除。"
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "Sweatshirt",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "白",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "007/007-w-01.jpg",
+            "007/007-w-02.jpg",
+            "007/007-w-03.jpg"
+          ]
+        },
+        {
+          "color": "灰",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "007/007-g-01.jpg",
+            "007/007-g-02.jpg",
+            "007/007-g-03.jpg",
+            "007/007-g-04.jpg",
+            "007/007-g-05.jpg"
+          ]
+        },
+        {
+          "color": "黑",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "007/007-b-01.jpg",
+            "007/007-b-02.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "007/007-info.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "TAIWAN台灣內刷毛落肩連帽上衣",
+      "price": 599,
+      "location": "台灣",
+      "material": "74%聚酯纖維、26%棉",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        "1.本商品因布料的特性，可能會發生脫毛的現象。",
+        "2.如絨毛黏附其它衣物，請用衣物專用的軟毛刷去除。"
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "Hooded_shirt",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "淡藍",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "008/008-lb-01.jpg",
+            "008/008-lb-02.jpg",
+            "008/008-lb-03.jpg",
+            "008/008-lb-04.jpg",
+            "008/008-lb-05.jpg"
+          ]
+        },
+        {
+          "color": "白",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "008/008-w-01.jpg",
+            "008/008-w-02.jpg",
+            "008/008-w-03.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "008/008-info.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "空氣層立體印字短T",
+      "price": 399,
+      "location": "中國",
+      "material": "表布 : 81%棉、19%聚酯纖維      羅紋 : 93%棉、7%彈性纖維",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        ""
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "T-Shirt",
+        "Spring",
+        "Summer"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "白",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "009/009-w-01.jpg",
+            "009/009-w-02.jpg"
+          ]
+        },
+        {
+          "color": "深灰",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            }
+          ],
+          "image": [
+            "009/009-dg-01.jpg",
+            "009/009-dg-02.jpg"
+          ]
+        },
+        {
+          "color": "淺卡其",
+          "sizes": [
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            }
+          ],
+          "image": [
+            "009/009-ch-01.jpg",
+            "009/009-ch-02.jpg",
+            "009/009-ch-03.jpg",
+            "009/009-ch-04.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "009/009-info.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "刷毛恐龍漫畫落肩大學T",
+      "price": 390,
+      "location": "柬埔寨",
+      "material": "74%聚酯纖維、26%棉",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        "1.本商品因布料的特性，可能會發生脫毛的現象。",
+        "2.如絨毛黏附其它衣物，請用衣物專用的軟毛刷去除。"
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "Sweatshirt",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "鐵灰",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "010/010-g-01.jpg",
+            "010/010-g-02.jpg",
+            "010/010-g-03.jpg"
+          ]
+        },
+        {
+          "color": "杏色",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "010/010-w-01.jpg",
+            "010/010-w-02.jpg"
+          ]
+        },
+        {
+          "color": "叢林綠",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 60,
+              "stock": 90
+            },
+            {
+              "size": "M",
+              "sales": 40,
+              "stock": 70
+            },
+            {
+              "size": "L",
+              "sales": 25,
+              "stock": 50
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "010/010-fg-01.jpg",
+            "010/010-fg-02.jpg",
+            "010/010-fg-03.jpg",
+            "010/010-fg-04.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "010/010-info.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "虹膜印字毛圈落肩大學T",
+      "price": 390,
+      "location": "柬埔寨",
+      "material": "68%棉 、32%聚酯纖維",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        ""
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "Sweatshirt",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "黑",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "011/011-b-01.jpg",
+            "011/011-b-02.jpg",
+            "011/011-b--03.jpg"
+          ]
+        }
+      ],
+      "image": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "name": "TAIWAN台灣刷毛POLO領上衣",
+      "price": 599,
+      "location": "台灣",
+      "material": "74%聚酯纖維、26%棉",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        "本商品因布料的特性，可能會發生脫毛現象，如絨毛黏附其他衣物，請用衣服專用的軟毛刷去除。"
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "POLO",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "淺灰",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "012/012-w-01.jpg",
+            "012/012-w-02.jpg"
+          ]
+        },
+        {
+          "color": "軍綠",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "012/012-g-01.jpg",
+            "012/012-g-02.jpg",
+            "012/012-g-03.jpg",
+            "012/012-g-04.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "012/012-info.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "吸濕保暖內刷毛圓領T恤",
+      "price": 299,
+      "location": "中國",
+      "material": "87%聚酯纖維、13%彈性纖維",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        ""
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "Sweatshirt",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "白",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XXL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "013/013-w-01.jpg",
+            "004/004-w-02.jpg",
+            "004/004-w-03.jpg"
+          ]
+        },
+        {
+          "color": "深灰",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XXL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "013/013-dg-01.jpg",
+            "013/013-dg-02.jpg",
+            "013/013-dg-03.jpg"
+          ]
+        },
+        {
+          "color": "黑",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XXL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "013/013-b-01.jpg",
+            "013/013-b-02.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "013/013-info1.jpg",
+        "013/013-info2.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "空氣層半開襟貼袋上衣",
+      "price": 520,
+      "location": "中國",
+      "material": "78%聚酯纖維、14%嫘縈、8%彈性纖維",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        ""
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "POLO",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "黑",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "014/014-b-01.jpg",
+            "014/014-b-02.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "014/014-info.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "仿皮小立領外套T",
+      "price": 1199,
+      "location": "中國",
+      "material": "表布 : 表層 : 100%PU合成皮。、底層 : 85%聚酯纖維、15%棉。裡布 : 100%聚酯纖維。",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        ""
+      ],
+      "category": [
+        "Men",
+        "Jacket",
+        "Jacket",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "駝色",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "015/015-w-01.jpg",
+            "015/015-w-02.jpg",
+            "015/015-w-03.jpg",
+            "015/015-w-04.jpg",
+            "015/015-w-05.jpg",
+            "015/015-w-06.jpg"
+          ]
+        },
+        {
+          "color": "黑",
+          "sizes": [
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "015/015-b-01.jpg",
+            "015/015-b-02.jpg"
+          ]
+        }
+      ],
+      "image": [
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "name": "TAIWAN台灣黑熊徽章刷毛落肩大學T",
+      "price": 439,
+      "location": "台灣",
+      "material": "74%聚酯纖維、26%棉",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。衣物洗滌方式請參考商品洗標。",
+      "notice": [
+        ""
+      ],
+      "category": [
+        "Men",
+        "Shirt",
+        "Sweatshirt",
+        "Fall",
+        "Winter"
+      ],
+      "state": true,
+      "variations": [
+        {
+          "color": "淺灰",
+          "sizes": [
+            {
+              "size": "XS",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "016/016-lg-01.jpg",
+            "016/016-lg-02.jpg"
+          ]
+        },
+        {
+          "color": "杏色",
+          "sizes": [
+            {
+              "size": "XS",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "S",
+              "sales": 50,
+              "stock": 100
+            },
+            {
+              "size": "M",
+              "sales": 30,
+              "stock": 80
+            },
+            {
+              "size": "L",
+              "sales": 20,
+              "stock": 60
+            },
+            {
+              "size": "XL",
+              "sales": 20,
+              "stock": 60
+            }
+          ],
+          "image": [
+            "016/016-w-01.jpg",
+            "016/016-w-02.jpg",
+            "016/016-w-03.jpg",
+            "016/016-w-04.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "016/016-info.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "空氣層立體印字連帽上衣",
+      "price": 599,
+      "location": "越南",
+      "material": "80%棉、20%聚酯纖維",
+      "wash": "建議放入洗衣袋中清洗，深淺色需分開，以避免染色問題。※",
+      "state": true,
+      "notice": [],
+      "category": [
+        "Women",
+        "Shirt",
+        "Hooded_shirt",
+        "Fall",
+        "Winter"
+      ],
+      "variations": [
+        {
+          "color": "杏色",
+          "sizes": [
+            {
+              "size": "S",
+              "stock": 15,
+              "sales": 33
+            },
+            {
+              "size": "M",
+              "stock": 36,
+              "sales": 37
+            },
+            {
+              "size": "L",
+              "stock": 55,
+              "sales": 35
+            }
+          ],
+          "image": [
+            "17/82903-507-1024-01.jpg",
+            "17/82903-507-1024-02.jpg"
+          ]
+        },
+        {
+          "color": "黑色",
+          "sizes": [
+            {
+              "size": "S",
+              "stock": 24,
+              "sales": 25
+            },
+            {
+              "size": "M",
+              "stock": 25,
+              "sales": 55
+            },
+            {
+              "size": "L",
+              "stock": 42,
+              "sales": 52
+            }
+          ],
+          "image": [
+            "17/82903-900-1024-02.jpg",
+            "17/82903-900-1024-01.jpg"
+          ]
+        },
+        {
+          "color": "紫色",
+          "sizes": [
+            {
+              "size": "S",
+              "stock": 24,
+              "sales": 55
+            },
+            {
+              "size": "M",
+              "stock": 44,
+              "sales": 42
+            },
+            {
+              "size": "L",
+              "stock": 24,
+              "sales": 51
+            }
+          ],
+          "image": [
+            "17/82903-804-1024-06.jpg",
+            "17/82903-804-1024-05.jpg",
+            "17/82903-804-1024-04.jpg",
+            "17/82903-804-1024-03.jpg",
+            "17/82903-804-1024-02.jpg",
+            "17/82903-804-1024-01.jpg"
+          ]
+        }
+      ],
+      "image": [
+        "17/空氣層-1024.jpg"
+      ]
+    }
+  ]
+}
